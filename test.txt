@@ -6,5 +6,6 @@ xinwenjian
 master最后一句话最后一句话
 
 这次又添加了一句话 dev分支 × bug被修复了
+这回bug改完了
 
 学到了git stash...
